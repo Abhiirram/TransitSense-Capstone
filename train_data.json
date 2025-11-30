@@ -1,0 +1,8 @@
+[
+  { "train_no": "10101", "name": "Konkan Kanya Express", "source": "Mumbai", "destination": "Goa", "departure": "23:00", "arrival": "10:00", "price": "1200", "class": "AC 2 Tier", "days": "Daily" },
+  { "train_no": "10102", "name": "Mandovi Express", "source": "Mumbai", "destination": "Goa", "departure": "07:10", "arrival": "18:45", "price": "450", "class": "Sleeper", "days": "Daily" },
+  { "train_no": "20201", "name": "Deccan Queen", "source": "Mumbai", "destination": "Pune", "departure": "17:10", "arrival": "20:25", "price": "800", "class": "Chair Car", "days": "Daily" },
+  { "train_no": "30301", "name": "Rajdhani Express", "source": "Delhi", "destination": "Mumbai", "departure": "16:55", "arrival": "08:35", "price": "3500", "class": "AC 1 Tier", "days": "Mon, Wed, Fri" },
+  { "train_no": "40401", "name": "Shatabdi Express", "source": "Delhi", "destination": "Jaipur", "departure": "06:00", "arrival": "10:50", "price": "1100", "class": "Executive Chair", "days": "Daily" },
+  { "train_no": "50501", "name": "Garib Rath", "source": "Chennai", "destination": "Hyderabad", "departure": "19:30", "arrival": "08:10", "price": "750", "class": "AC 3 Tier", "days": "Thu, Sun" }
+]
